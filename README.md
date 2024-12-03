@@ -9,7 +9,7 @@ This project is a simple yet functional web-based photo gallery system. It allow
 - **Image Upload:** Easily upload and store images in the system.  
 - **Gallery View:** Browse images in an organized gallery format.  
 - **Responsive Design:** Works seamlessly across different devices.  
-- **Database Integration:** Stores image details using MySQL.  
+- **Database Integration:** Stores login and signup details using MySQL.  
 - **Dynamic Functionality:** Built with PHP for server-side logic and JavaScript for interactivity.  
 
 ## Technologies Used
